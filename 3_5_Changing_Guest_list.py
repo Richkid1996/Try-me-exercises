@@ -2,14 +2,15 @@
 guest = ["Crag", "Scooter", "Peewee"]
 
 names = guest[0].title()
-print(f"{names}, please come to dinner.")
+print(f"\n{names}, please come to dinner.")
 
 names = guest[1].title()
-print(f"{names}, please come to dinner.")
+print(f"\n{names}, please come to dinner.")
 
 names = guest[2].title()
-print(f"{names}, please come to dinner.")
+print(f"\n{names}, please come to dinner.")
 
+#Guest who can't make it
 names = guest[0].title()
 print(f"\n{names}, can't make it to the dinner.")
 
@@ -21,9 +22,9 @@ names = guest[0].title()
 print(f"\n{names}, please come to dinner.")
 
 names = guest[1].title()
-print(f"{names}, please come to dinner.")
+print(f"\n{names}, please come to dinner.")
 
 names = guest[2].title()
-print(f"{names}, please come to dinner.")
+print(f"\n{names}, please come to dinner.")
 
 
